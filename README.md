@@ -55,7 +55,6 @@ ozi sde project/
 │   ├── .env.example
 │   ├── server.js
 │   ├── package.json
-│   └── node_modules/
 │
 ├── frontend/
 │   ├── public/
