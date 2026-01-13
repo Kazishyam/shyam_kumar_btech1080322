@@ -35,10 +35,10 @@ A full-stack task management web application that lets users register/login, cre
 
 ---
 
-## 📂 Folder Structure
+## 📁 Project Structure
 
+```text
 ozi sde project/
-│
 ├── backend/
 │   ├── controllers/
 │   │   ├── authController.js
@@ -54,27 +54,20 @@ ozi sde project/
 │   ├── config/
 │   ├── .env.example
 │   ├── server.js
-│   ├── package.json
+│   └── package.json
 │
 ├── frontend/
 │   ├── public/
 │   ├── src/
 │   │   ├── components/
-│   │   │   ├── Navbar.js
-│   │   │   ├── Column.js
-│   │   │   ├── TaskCard.js
-│   │   │   └── AddTaskModal.js
 │   │   ├── pages/
-│   │   │   ├── Login.js
-│   │   │   ├── Register.js
-│   │   │   └── Dashboard.js
 │   │   ├── services/
-│   │   │   └── api.js
 │   │   ├── App.js
 │   │   └── index.css
 │   └── package.json
 │
 └── README.md
+
 
 
 The project follows a clean and modular folder structure separating backend and frontend concerns.
